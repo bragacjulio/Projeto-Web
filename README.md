@@ -1,5 +1,2 @@
 # Projeto Web
-Meu primeiro repositório :D
-
-
--> Para os amigos do Café++ :3
+-> Meu primeiro repositório para os amigos do Café++ :3
