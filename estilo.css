@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#pratos div {
+    width: 180px;
+    height: 190px;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin: 10px;
+    float: right;
+    text-align: center;
+    padding: 4px;
+    background-color: rgb(243, 239, 239);
+}
+
+#menu {
+    width: 190px;
+    height: 500px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 6px;
+    background-color: rgb(243, 239, 239);
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+#borda {
+    float: right;
+    width: 1100px;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+#resultados {
+    float: right;
+    width: 400px;
+}
+
+#rodape {
+    border: 2px solid black;
+    background-color: rgb(243, 239, 239);
+    bottom: 0;
+    height: 80px;
+    width: 1350px;
+    position: fixed;
+    text-align: center;
+    border-radius: 6px;
+}

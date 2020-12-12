@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<pratos link="index.html"> Cardapio </pratos>
+	<pratos link="carrinho.html"> Carrinho </pratos>
+</menu>

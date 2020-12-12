@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Carrinho</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="dados/funcao.js"></script>
+    <link href="estilo.css" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="menu"></nav>
+    <div id="borda">
+        <main id="pratos"></main>
+        <button id="limpar">Limpar Carrinho</button>
+    </div>
+    <footer id="rodape"> Desenvolvido por: <br> Julio Braga - RGM: 23287594</footer>
+   
+
+    <script>
+        $(function() {
+            menu();
+            exibirCarrinho();
+            if (document.getElementById('limpar') != null){
+            document.getElementById('limpar').addEventListener("click", function(){
+                localStorage.clear()
+                window.location.reload();
+            })
+        }
+        })
+    </script>
+
+</body>
+
+</html>

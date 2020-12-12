@@ -1,0 +1,9 @@
+{
+    "produtos": [
+        { "valor": 50.15, "nome": "Reinaldão", "descrição": "Rango brabo do professor BRABO." },
+        { "valor": 35.00, "nome": "Danilo", "descrição": "É um bom prato que é melhor que todos os outros se brincar." },
+        { "valor": 33.95, "nome": "Japa", "descrição": "Vai te deixar numa ressaca desgraçada (taça de vinho)." },
+        { "valor": 40.55, "nome": "Gustavo", "descrição": "Em respeito ao meu cunhado eu não vou zoar." },
+        { "valor": 20.99, "nome": "Julio", "descrição": "O melhor prato que tem aqui, convenhamos." }
+    ]
+}
